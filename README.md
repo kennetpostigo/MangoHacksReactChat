@@ -2,9 +2,8 @@
 ---
 > Boilerplate For Mango Chat Application
 
-![](public/img/MangoHacks.png)
+<div style="text-align:center"><img src="public/img/MangoHacks.png" /></div>
 
----
 
 This repository contains the boilerplate code for a workshop that I am having
 during FIU's MangoHacks 2016 Hackathon.
