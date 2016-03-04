@@ -1,5 +1,4 @@
 # MangoHacksReactChat
----
 > Boilerplate For Mango Chat Application
 
 <div style="text-align:center"><img src="public/img/MangoHacks.png" /></div>
@@ -14,4 +13,4 @@ during FIU's MangoHacks 2016 Hackathon.
 + <h4> [Git](https://git-scm.com/downloads) </h4>
 + <h4> [Webpack](https://webpack.github.io/) `npm install webpack -g` </h4>
 
-# Happy Hacking!
+## Happy Hacking!
